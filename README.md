@@ -4,9 +4,9 @@ Two methods to fast computation of heatmaps over encrypted data using fully
 homomorphic encryption (FHE), as described in the paper
 *Homomorphically counting elements with the same property*,
 by [Ilia Iliashenko](https://homes.esat.kuleuven.be/~ilia/), 
-Malika Izabachène, 
+[Malika Izabachène](https://izama.github.io/), 
 [Axel Mertens](https://www.esat.kuleuven.be/cosic/people/axel-mertens/),
-and [Hilder Vitor Lima Pereira](hilder-vitor.github.io/).
+and [Hilder Vitor Lima Pereira](https://hilder-vitor.github.io/).
 
 ## Dependencies
 
